@@ -72,7 +72,7 @@ Publish the website in the LocalHost.
     </body>
 </html>
 
-stylebs.css
+stylebc.css
 
 body{
     display: flex;
